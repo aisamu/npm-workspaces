@@ -1,0 +1,6 @@
+#+title: npm workspaces experimentation/verification
+
+Notes:
+- All changes are committed, including =node_modules=. The purpose is to illustrate what really happens on each command.
+- Each commit contains one command, or the reversal of the previous step and a command where a direct comparison is useful.
+- Branches may exist containing alternative commands (for easier diffing)
