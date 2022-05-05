@@ -11,5 +11,9 @@
   "dependencies": {
     "left-pad": "^1.3.0",
     "prettier": "^1.19.1"
-  }
+  },
+  "bundledDependencies": [
+    "left-pad",
+    "prettier"
+  ]
 }
