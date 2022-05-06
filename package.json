@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "prepack": "echo PREPACK; touch ran.txt",
+    "postinstall": "echo POSTINSTALL; touch postinstall.txt",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "workspaces": [
